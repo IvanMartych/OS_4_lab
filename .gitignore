@@ -35,5 +35,3 @@ client
 # Сборочные артефакты
 build/
 dist/
-
-doc/
